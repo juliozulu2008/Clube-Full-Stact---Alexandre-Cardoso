@@ -1,0 +1,15 @@
+{
+    "name": "julio/server",
+    "autoload": {
+        "psr-4": {
+            "Julio\\Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio Cesar",
+            "email": "juliozulu2008@gmail.com"
+        }
+    ],
+    "require": {}
+}
